@@ -12,3 +12,6 @@
 
 ### keypatch.py
 	打补丁
+
+### ChaosArtifacts.dll ChaosArtifacts64.dll
+	识别被粉碎C++符号
